@@ -1,0 +1,18 @@
+{
+  "name": "wolfifou-bot",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wolfifou/0verL1ghT",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.2",
+    "fs": "0.0.1-security",
+    "humanize-duration": "^3.25.1",
+    "moment": "^2.29.1",
+    "parse-duration": "^1.0.0"
+  }
+}
